@@ -45,7 +45,6 @@ This project demonstrates data analysis and visualisation techniques used to mon
 ![Data Architecture   Star Schema Model](https://github.com/user-attachments/assets/62132454-8359-4880-8244-98a4e67bc510)
 *Data Architecture & Star Schema Model*
 
----
 
 ## Tools Used
 
