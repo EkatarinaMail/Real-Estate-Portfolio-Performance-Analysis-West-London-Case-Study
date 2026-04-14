@@ -2,14 +2,14 @@
 
 ![Housing Performane Animation](https://github.com/user-attachments/assets/8c1f45c0-9fcc-48c3-b359-c377ec45fbb3)
 
-## Project Overview: 
+## Project Overview 
 
 This project demonstrates data analysis and visualisation techniques used to monitor financial and operational performance across a residential property portfolio in West London. The goal is to evaluate revenue streams, track maintenance efficiency (SLA), and identify tenant risk profiles to ensure optimal asset management and portfolio stability.
 
 ### Executive Dashboard Overview
 ![Executive Dashboard Overview](https://github.com/user-attachments/assets/ad6cb03c-060c-42d7-b584-6e33858dcdce)
 
-## Key Skills Demonstrated:
+## Key Skills Demonstrated
 
 •	Financial Reporting: Developing automated "Profit Bridge" visualisations to track the transition from Gross Rent to Net Operating Income.
 •	Operational Analytics: Using Root Cause Analysis (Decomposition Trees) to identify drivers behind property void periods.
@@ -28,7 +28,7 @@ This project demonstrates data analysis and visualisation techniques used to mon
 ### Data Architecture & Star Schema Model
 ![Data Architecture   Star Schema Model](https://github.com/user-attachments/assets/62132454-8359-4880-8244-98a4e67bc510)
 
-## Tools Used:
+## Tools Used
 
 •	Power BI Desktop: Report authoring and data visualisation.
 •	Power Query: Data transformation and cleaning.
