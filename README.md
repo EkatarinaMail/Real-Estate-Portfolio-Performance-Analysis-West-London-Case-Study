@@ -12,9 +12,8 @@ This project demonstrates data analysis and visualisation techniques used to mon
 *Executive Dashboard Overview*
 
 ---
-----
------
-------
+***
+___
 
 ## Key Skills Demonstrated
 
