@@ -12,8 +12,11 @@ This project demonstrates data analysis and visualisation techniques used to mon
 ## Key Skills Demonstrated
 
 •	Financial Reporting: Developing automated "Profit Bridge" visualisations to track the transition from Gross Rent to Net Operating Income.
+
 •	Operational Analytics: Using Root Cause Analysis (Decomposition Trees) to identify drivers behind property void periods.
+
 •	Risk Assessment: Utilising scatter plots and categorical distribution to monitor rental arrears and mitigate cash flow risks.
+
 •	Data Modelling: Implementation of a Star Schema structure to integrate multiple data streams, including financial, maintenance, and vacancy records.
 
 ### Financial Performance & Expense Analysis
@@ -31,5 +34,6 @@ This project demonstrates data analysis and visualisation techniques used to mon
 ## Tools Used
 
 •	Power BI Desktop: Report authoring and data visualisation.
+
 •	Power Query: Data transformation and cleaning.
 
