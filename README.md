@@ -6,8 +6,9 @@
 
 This project demonstrates data analysis and visualisation techniques used to monitor financial and operational performance across a residential property portfolio in West London. The goal is to evaluate revenue streams, track maintenance efficiency (SLA), and identify tenant risk profiles to ensure optimal asset management and portfolio stability.
 
-### Executive Dashboard Overview
+
 ![Executive Dashboard Overview](https://github.com/user-attachments/assets/ad6cb03c-060c-42d7-b584-6e33858dcdce)
+*Executive Dashboard Overview*
 
 ## Key Skills Demonstrated
 
